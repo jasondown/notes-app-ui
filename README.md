@@ -2,6 +2,8 @@
 
 This project is the front-end React and Typescript component of a notes application based on a tutorial by Chris Blakely, found [here](https://www.freecodecamp.org/news/full-stack-project-tutorial-create-a-notes-app-using-react-and-node-js/).
 
+The server component for the completed tutorial can be found in my other repository [here](https://github.com/jasondown/notes-app-server).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
